@@ -7,9 +7,9 @@
 ## 项目配置
 - pycharm
 - python3.7
-### 依赖库
-- requests
-- lxml
+- 依赖库
+  - requests
+  - lxml
 
 ## 爬取的图片示例
 ![图片示例1](https://github.com/albert-lii/py3-sample-market/blob/master/meizitu_simple_spider/download/19.jpg)
